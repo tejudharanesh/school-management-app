@@ -10,13 +10,13 @@ Fork and clone the repo and follow the below steps:
 -->npm install
 
 start client 
---> npm start 
-
-this will listen in port 3000
-
+--> npm start        this will listen in port 3000
 
 start server
---> node app.js
+--> node app.js      this will listen in port 5000
 
-this will listen in port 5000
+change the url parameters to look into different dashboard
+-->http://localhost:3000/
+-->http://localhost:3000/teacher
+-->http://localhost:3000/marks
 
